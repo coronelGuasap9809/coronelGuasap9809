@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EMI-coronelguasap
-- 👀 I’m interested in simple Python projects
-- 🌱 I’m currently learning Python, HTML
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in simple Python, HTML, CSS and JS projects
+- 🌱 I’m currently learning Python, HTML, CSS and JS
 - 📫 How to reach me: Please don't
 - 😄 Pronouns: -_-
 - ⚡ Fun fact: Potatoes are edible
